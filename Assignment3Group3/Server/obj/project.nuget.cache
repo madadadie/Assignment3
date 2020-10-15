@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "96pKlpdKaTG8dFLxNszd7jgi4JiAg8Di9We9AzQMMLLfCTxvfHJABY8uAgV41M9Z0wYwGAOj2mf0+qhgpVO2xg==",
+  "dgSpecHash": "gqsDY6A5kLVktOR7SZZ60mNm+tHMBV0bpw3Yhmq2Il/7wpeCCkyQfcPH1mnCex77mP3ENiMfqJepfXYzA9N0Vw==",
   "success": true,
-  "projectFilePath": "/Users/markozivko/Desktop/Assignment3Group3/Server/Server.csproj",
+  "projectFilePath": "/Users/markozivko/Desktop/Assignment3/Assignment3Group3/Server/Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

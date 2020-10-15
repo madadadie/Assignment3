@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/markozivko/Desktop/Assignment3/Assignment3Group3/Server/Server.csproj": {}
+    "/Users/markozivko/Desktop/Assignment3/Assignment3Group3/Client/Client.csproj": {}
   },
   "projects": {
-    "/Users/markozivko/Desktop/Assignment3/Assignment3Group3/Server/Server.csproj": {
+    "/Users/markozivko/Desktop/Assignment3/Assignment3Group3/Client/Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/markozivko/Desktop/Assignment3/Assignment3Group3/Server/Server.csproj",
-        "projectName": "Server",
-        "projectPath": "/Users/markozivko/Desktop/Assignment3/Assignment3Group3/Server/Server.csproj",
+        "projectUniqueName": "/Users/markozivko/Desktop/Assignment3/Assignment3Group3/Client/Client.csproj",
+        "projectName": "Client",
+        "projectPath": "/Users/markozivko/Desktop/Assignment3/Assignment3Group3/Client/Client.csproj",
         "packagesPath": "/Users/markozivko/.nuget/packages/",
-        "outputPath": "/Users/markozivko/Desktop/Assignment3/Assignment3Group3/Server/obj/",
+        "outputPath": "/Users/markozivko/Desktop/Assignment3/Assignment3Group3/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/markozivko/.config/NuGet/NuGet.Config"
